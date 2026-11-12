@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="ScoutMerge logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Nimble Discover logo">
   <rect width="48" height="48" rx="13" fill="#153D30"/>
-  <path d="M13 32l9-8 5 4 9-11M13 19l9 5M29 17h7v7" fill="none" stroke="#9AD8B6" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="24" r="14.25" fill="none" stroke="#9AD8B6" stroke-width="2.15"/>
+  <path d="M24 10.6 27.7 22.15 24 19.9 20.3 22.15Z" fill="#F4FBF7"/>
+  <path d="M24 37.4 20.3 25.85 24 28.1 27.7 25.85Z" fill="#2F8B60"/>
+  <circle cx="24" cy="24" r="2.15" fill="#9AD8B6"/>
 </svg>

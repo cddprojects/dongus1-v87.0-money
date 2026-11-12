@@ -322,7 +322,7 @@ button { cursor: pointer; }
   margin-right: auto;
 }
 .brand__mark { border-radius: 11px; flex: none; }
-.brand__name { font-size: 0.95rem; line-height: 1.15; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.brand__name { font-size: 0.95rem; line-height: 1.15; white-space: nowrap; }
 
 .nav__list { display: flex; align-items: center; gap: clamp(1rem, 2.4vw, 2rem); }
 .nav__list a {
@@ -1438,7 +1438,7 @@ body { line-height: 1.65; }
 @media (max-width: 640px) {
   :root { --fs-base: 1rem; --section-pad: 3.75rem; }
 
-  .brand__name { font-size: 0.82rem; max-width: 8.5rem; white-space: normal; }
+  .brand__name { font-size: 0.82rem; max-width: 9.6rem; white-space: normal; }
   .header__inner { gap: var(--sp-3); }
   .btn--sm { padding-inline: 1rem; }
   .header__apply { white-space: nowrap; }
@@ -1480,7 +1480,7 @@ body { line-height: 1.65; }
 
 /* Very small phones */
 @media (max-width: 380px) {
-  .brand__name { max-width: 7.5rem; font-size: 0.78rem; }
+  .brand__name { max-width: 8.4rem; font-size: 0.78rem; }
   .brand__mark { width: 34px; height: 34px; }
   .header__apply { padding-inline: 0.8rem; }
 }
